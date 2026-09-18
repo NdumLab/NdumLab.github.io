@@ -1,7 +1,4 @@
-# Pipeline site
+# Unpublished
 
-Public GitHub Pages site for the Pipeline draft product.
-
-- Site: https://ndumlab.github.io/
-- Dashboard: https://ndumlab.github.io/dashboard.html
-- Source product repo (private): https://github.com/NdumLab/pipeline
+Public GitHub Pages is parked on purpose.
+Serve the product site from the private `NdumLab/pipeline` repo `site/` folder on localhost only.
